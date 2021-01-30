@@ -1,7 +1,5 @@
 # Rainbow-Poem
 
-** Ken's readme **
-
-# Stuff
+Ken's readme
 
 Hello there!
