@@ -1,5 +1,7 @@
 # Rainbow-Poem
 
-Ken's readme
+Ken's readme **file** 
+
+This is a [link](https://www.google.com)
 
 Hello there!
